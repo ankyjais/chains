@@ -63,6 +63,14 @@
     "format": "png"
   }]
 }, {
+  "name": "0xl3",
+  "icons": [{
+    "url": "ipfs://QmSsUNLDQXspXXLCH6bUW5CKJgon42yiVZ2Gp4ZBWL79Vx",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "vinuscan",
   "icons": [{
     "url": "ipfs://bafkreiayq7a5qncxzlilfnvpgzt4pwfxbof2qrqr2nyd2suztfummpty4i",
@@ -132,6 +140,14 @@
     "url": "ipfs://QmVxtpYYzc5214CB7BgsMC4mRNRHCD8fpbNMzZguBWyRwa",
     "width": 600,
     "height": 600,
+    "format": "png"
+  }]
+}, {
+  "name": "apechain",
+  "icons": [{
+    "url": "ipfs://QmTqiPnYZx6ZyPPbtsuh8VvvoH6DSCJGjTUgtTN9X8NScP",
+    "width": 1200,
+    "height": 1200,
     "format": "png"
   }]
 }, {
@@ -468,6 +484,14 @@
     "url": "ipfs://QmRm6gcEPJmU9a86zrmyP7FALTN4Toz9HrnrL2Kwg6FPeh",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "unitzero",
+  "icons": [{
+    "url": "ipfs://QmRb2rWanyBTKS5KyrmrbXPNy9zovpxfLRxz9FPPiuRgfg",
+    "width": 532,
+    "height": 532,
     "format": "png"
   }]
 }, {
@@ -3319,6 +3343,14 @@
     "format": "png"
   }]
 }, {
+  "name": "pop-boss",
+  "icons": [{
+    "url": "ipfs://QmW3NPDe6WRqucrWbe8pg3GqSMPi8V6Qa1fAiaQuqjxSJC",
+    "width": 1256,
+    "height": 1256,
+    "format": "png"
+  }]
+}, {
   "name": "move",
   "icons": [{
     "url": "ipfs://QmWRAor77N6VyjJiQgtsEE7h9Bd1Q7vtRveTYv2A6wZyAT",
@@ -5020,6 +5052,14 @@
     "url": "ipfs://QmcW64RgqQVHnNbVFyfaMNKt7dJvFqEbfEHZmeyeK8dpEa",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "arvix",
+  "icons": [{
+    "url": "ipfs://QmcwGGWyemrFUZPriS3PqxLUoT7vdtS7FqNY5fAaoTG27Q",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
